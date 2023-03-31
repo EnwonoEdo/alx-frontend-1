@@ -7,3 +7,4 @@
 | 2. The head - meta             | [2-index.html](2-index.html) | created html file `2-index.html` with:<br> - `meta` tag<br> - `title` tag<br>                          |
 | 3. Simple header, main, footer | [3-index.html](3-index.html) | created html file `3-index.html` with:<br> - `header` tag<br> - `main` tag<br> - `footer` tag<br>      |
 | 4. Aside                       | [article.html](article.html) | created html file `article.html` with:<br> - `article` tag<br> - `h2` tag<br> - `p` tag<br>            |
+| 5. Section & Nav               | [5-index.html](5-index.html) | created html file `5-index.html` with:<br> - `nav` tag<br> - `section` tag<br>                         |
