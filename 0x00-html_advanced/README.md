@@ -23,5 +23,6 @@
 | 18. link your logo                  | [18-index.html](18-index.html)                                                               |                                                                                                        |
 | 19. Create new pages                | [about.html](about.html), [latest_news.html](latest_news.html), [contact.html](contact.html) |                                                                                                        |
 | 20. Add links                       | [20-index.html](20-index.html)                                                               |                                                                                                        |
-| 21. Add social media links                                    | [21-index.html](21-index.html)                                                                                             |                                                                                                        |
+| 21. Add social media links          | [21-index.html](21-index.html)                                                               |                                                                                                        |
+| 22. "Button" links                                    | [22-index.html](22-index.html)                                                                                             |                                                                                                        |
 
