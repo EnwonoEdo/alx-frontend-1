@@ -9,3 +9,4 @@
 | 4. Aside                            | [article.html](article.html) | created html file `article.html` with:<br> - `article` tag<br> - `h2` tag<br> - `p` tag<br>            |
 | 5. Section & Nav                    | [5-index.html](5-index.html) | created html file `5-index.html` with:<br> - `nav` tag<br> - `section` tag<br>                         |
 | 6. Work, News, Testimonial articles | [6-index.html](6-index.html) | created html file `6-index.html` with:<br> - `article` tag<br> - `h2` tag<br> - `p` tag<br>            |
+| 7. Navigation                       | [7-index.html](7-index.html) | created html file `7-index.html` with:<br> - `nav` tag<br> - `ul` tag<br> - `li` tag<br> - `a` tag<br> |
