@@ -1,7 +1,7 @@
 # 0x00. Advanced HTML
 
 | TASK                                | FILE                                     | DESCRIPTION                                                                                            |
-| ----------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+|-------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | 0. Create your first webpage        | [0-index.html](0-index.html)             | created html file `0-index.html` with:<br> - doctype<br> - `html` tag with lang and dir attributes<br> |
 | 1. Structure your webpage           | [1-index.html](1-index.html)             | created html file `1-index.html` with:<br> - `head` tag<br> - `title` tag<br> - `body` tag<br>         |
 | 2. The head - meta                  | [2-index.html](2-index.html)             | created html file `2-index.html` with:<br> - `meta` tag<br> - `title` tag<br>                          |
@@ -14,3 +14,5 @@
 | 9. Level 2 headings                 | [9-index.html](9-index.html)             | created html file `9-index.html` with:<br> - `h4` tag<br> - `h5` tag<br> - `h6` tag<br>                |
 | 10. Level 3 headings                | [10-index.html](10-index.html)           | created html file `10-index.html` with:<br> - `h4` tag<br> - `h5` tag<br> - `h6` tag<br>               |
 | 11. styleguide                      | [11-styleguide.html](11-styleguide.html) | created html file `11-styleguide.html` with:<br> - `h1` tag<br> - `h2` tag<br> - `h3` tag<br>          |
+| 12. Paragraphs                      | [12-index.html](12-index.html)           |                                                                                                        |
+
