@@ -15,4 +15,5 @@
 | 10. Level 3 headings                | [10-index.html](10-index.html)           | created html file `10-index.html` with:<br> - `h4` tag<br> - `h5` tag<br> - `h6` tag<br>               |
 | 11. styleguide                      | [11-styleguide.html](11-styleguide.html) | created html file `11-styleguide.html` with:<br> - `h1` tag<br> - `h2` tag<br> - `h3` tag<br>          |
 | 12. Paragraphs                      | [12-index.html](12-index.html)           |                                                                                                        |
+| 13. styleguide paragraphs           | [13-styleguide.html](13-styleguide.html) |                                                                                                        |
 
