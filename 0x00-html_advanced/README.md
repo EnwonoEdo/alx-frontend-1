@@ -18,5 +18,6 @@
 | 13. styleguide paragraphs           | [13-styleguide.html](13-styleguide.html) |                                                                                                        |
 | 14. Span                            | [14-index.html](14-index.html)           |                                                                                                        |
 | 15. Div                             | [15-index.html](15-index.html)           |                                                                                                        |
-| 16. Structure your sections                                    | [16-index.html](16-index.html)                                         |                                                                                                        |
+| 16. Structure your sections         | [16-index.html](16-index.html)           |                                                                                                        |
+| 17. Comments                                    | [17-index.html](17-index.html)                                         |                                                                                                        |
 
