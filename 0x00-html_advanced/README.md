@@ -20,5 +20,6 @@
 | 15. Div                             | [15-index.html](15-index.html)           |                                                                                                        |
 | 16. Structure your sections         | [16-index.html](16-index.html)           |                                                                                                        |
 | 17. Comments                        | [17-index.html](17-index.html)           |                                                                                                        |
-| 18. link your logo                                    | [18-index.html](18-index.html)                                         |                                                                                                        |
+| 18. link your logo                  | [18-index.html](18-index.html)           |                                                                                                        |
+| 19. Create new pages                                    | [about.html](about.html), [latest_news.html](latest_news.html), [contact.html](contact.html)                                         |                                                                                                        |
 
