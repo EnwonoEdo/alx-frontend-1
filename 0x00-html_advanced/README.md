@@ -31,3 +31,4 @@
 | 26. Examples of lists for the styleguide | [26-styleguide.html](26-styleguide.html)                                                     |                                                                                                        |
 | 27. Separate content                   | [27-index.html](27-index.html)                                                               |                                                                                                        |
 | 28. Horizontal rule                    | [28-index.html](28-index.html)                                                               |                                                                                                        |
+| 29. Client quotes                      | [29-index.html](29-index.html)                                                               |                                                                                                        |
